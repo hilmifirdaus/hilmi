@@ -1,3 +1,9 @@
+//Created by group Khalas for INFO 4302 section 01
+//Muhammad Hilmi Firdaus bin Mohd Fuad [1715733]
+//Wan Maisarah binti Wan Azhar [1710714]
+//Nur Hazirah Binti Haris Fadzilah [1714158]
+//Yuseri Che Yunus [1710879]
+
 const readline = require('readline');
 const { exit } = require('process');
 const { count } = require('console');
