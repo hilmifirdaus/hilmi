@@ -68,7 +68,7 @@ var bays = ["", "", "", "", ""];
 var queue = new Array();
 
 
-console.log('Welcome to Car Service System!');
+console.log('Welcome to Car Service Lineup System!');
 shopTime();
 chooseOp();
 
